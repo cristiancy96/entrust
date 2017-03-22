@@ -1,4 +1,4 @@
-<?php namespace Zizaco\Entrust;
+<?php namespace Cristiancy96\Entrust;
 
 /**
  * This class is the main entry point of entrust. Usually the interaction
