@@ -1,4 +1,4 @@
-<?php namespace Zizaco\Entrust\Middleware;
+<?php namespace Cristiancy96\Entrust\Middleware;
 
 /**
  * This file is part of Entrust,
