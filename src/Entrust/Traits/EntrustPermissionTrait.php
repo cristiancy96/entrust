@@ -1,4 +1,4 @@
-<?php namespace Zizaco\Entrust\Traits;
+<?php namespace Cristiancy96\Entrust\Traits;
 
 /**
  * This file is part of Entrust,
