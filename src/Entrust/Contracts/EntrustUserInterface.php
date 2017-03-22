@@ -1,4 +1,4 @@
-<?php namespace Zizaco\Entrust\Contracts;
+<?php namespace Cristiancy96\Entrust\Contracts;
 
 /**
  * This file is part of Entrust,
